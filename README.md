@@ -6,7 +6,7 @@
 
 # How to: 
 
-* (you'll need to add golang back to path and enable it in sudoers or you can 'sudo apt-get install golang' which will be enough)
+* (you'll need to add golang back to path and enable it in sudoers or you can 'sudo apt-get install golang' which will be enough also be connected to the internet or have hcxtools already installed.
 
 * cd ~
 
